@@ -3,18 +3,18 @@ import { Award, BookOpen, GraduationCap } from 'lucide-react';
 const Education = () => {
   const education = [
     {
-      degree: 'Master of Science in Computer Science',
-      institution: 'University of Technology',
-      period: '2015 - 2017',
-      description: 'Specialized in Data Science and Machine Learning',
-      gpa: '3.9/4.0',
+      degree: 'Master of Science in Computer Science and Information Technology',
+      institution: 'Sacred Heart University',
+      period: '2024 - 2025',
+      description: 'Speci-alized in Computer Science & Information Technology',
+      gpa: '3.56/4.0',
     },
     {
-      degree: 'Bachelor of Engineering in Computer Science',
-      institution: 'Engineering College',
-      period: '2011 - 2015',
-      description: 'Focus on Software Engineering and Database Systems',
-      gpa: '3.7/4.0',
+      degree: 'Bachelor of Science Mathematics Statistics Computer science ',
+      institution: 'Chaitanya Degeree  College',
+      period: '2018 - 2021',
+      description: 'Built a Computer Science foundation with emphasis on programming, databases, and data-driven problem solving, supported by Mathematics and Statistics coursework.',
+      gpa: '7.6/10.0',
     },
   ];
 
