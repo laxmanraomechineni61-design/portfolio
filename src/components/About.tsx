@@ -54,7 +54,7 @@ const About = () => {
           <div className="space-y-4 animate-fadeInRight">
             <div className="flex items-center gap-4 p-4 bg-gray-800/50 rounded-lg hover:bg-gray-800 transition-all duration-300 transform hover:translate-x-2">
               <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
-              <span className="text-gray-300">5+ years of experience in data engineering</span>
+              <span className="text-gray-300">3+ years of experience in data engineering</span>
             </div>
             <div className="flex items-center gap-4 p-4 bg-gray-800/50 rounded-lg hover:bg-gray-800 transition-all duration-300 transform hover:translate-x-2">
               <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
